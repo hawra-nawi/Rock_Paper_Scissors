@@ -16,7 +16,9 @@ I created this project out of a mix of boredom and inspiration from my students 
 
 The game is built with a clean and modular framework for easy understanding and maintenance. Here's an overview of the workflow:
 
-![Game Workflow Diagram](https://github.com/hawra-nawi/Rock_Paper_Scissors/blob/main/Game%20Function%20Workflow/Image/workflow.png)
+<p align="center">
+  <img src="https://github.com/hawra-nawi/Rock_Paper_Scissors/blob/main/Game%20Function%20Workflow/Image/workflow.png" alt="Game Workflow Diagram" width="600"/>
+</p>
 
 ### Framework Overview:
 1. **Game Setup:**
