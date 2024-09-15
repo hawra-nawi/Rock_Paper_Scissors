@@ -2,7 +2,7 @@
 
 ## Overview
 
-![Preview Video](https://vimeo.com/1009675665?share=copy)
+https://github.com/user-attachments/assets/d85a2fc7-c327-485b-a4c0-8456cbe0b5ae
 
 This is a simple Rock, Paper, Scissors game with a fun graphical user interface (GUI) built using Python's tkinter library. It includes animations and sound effects to make the classic game more interactive. You can choose between rock, paper, or scissors, and the computer will randomly select its move. The game will announce whether you won, lost, or tied!
 
