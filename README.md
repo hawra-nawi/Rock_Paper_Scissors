@@ -14,7 +14,7 @@ I created this project out of a mix of boredom and inspiration from my students 
 
 The game is built with a clean and modular framework for easy understanding and maintenance. Here's an overview of the workflow:
 
---Display workplay image
+![Game Workflow Diagram](https://github.com/hawra-nawi/Rock_Paper_Scissors/blob/main/Game%20Function%20Workflow/Image/workflow.png)
 
 ### Framework Overview:
 1. **Game Setup:**
@@ -29,12 +29,12 @@ The game is built with a clean and modular framework for easy understanding and 
    - The result screen displays the choices of both the player and the computer with animations and sound effects for winning, losing, or tying.
    - Users can choose to play again or exit.
 
-You can find out more information on the workflow documentation(link)
+For more detailed workflow documentation, [click here](https://github.com/hawra-nawi/Rock_Paper_Scissors/blob/main/Game%20Function%20Workflow/Rock%2C%20Paper%2C%20Scissors%20Game%20-%20Function%20Workflow.pdf).
 
 ### File Structure
-- **`GIF/(with link to the folder)`**: Contains the animated GIFs for rock, paper, and scissors.
-- **`Sound_Effects/(with link to folder)`**: Contains the sound effects for win, lose, and tie outcomes.
-- **Main Python Script(link to the file)**: The main game logic is within the Python script, structured to handle the game loop, animations, and result display.
+- **[GIF](https://github.com/hawra-nawi/Rock_Paper_Scissors/tree/main/GIF)**: Contains the animated GIFs for rock, paper, and scissors.
+- **[Sound_Effects](https://github.com/hawra-nawi/Rock_Paper_Scissors/tree/main/Sound_Effects)**: Contains the sound effects for win, lose, and tie outcomes.
+- **[Main Python Script](https://github.com/hawra-nawi/Rock_Paper_Scissors/blob/main/rock_paper_scissors.py)**: The main game logic is within the Python script, structured to handle the game loop, animations, and result display.
 
 ### Code Structure:
 The code is divided into well-documented functions, including:
