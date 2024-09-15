@@ -61,6 +61,6 @@ The code is divided into well-documented functions, including:
    ```
 
 ## Open to Suggestions!
-This was a fun project, and I'm open to hearing any ideas or suggestions on how to improve it! Feel free to reach out with your feedback or thoughts via [Linked](https://www.linkedin.com/in/hawra-nawi05/).
+This was a fun project, and I'm open to hearing any ideas or suggestions on how to improve it! Feel free to reach out with your feedback or thoughts via [LinkedIn](https://www.linkedin.com/in/hawra-nawi05/).
 
 Enjoy the game!
