@@ -63,7 +63,7 @@ The code is divided into well-documented functions, including:
 ## Open to Suggestions!
 This was a fun project, and I'm open to hearing any ideas or suggestions on how to improve it! Feel free to reach out with your feedback or thoughts via:
 <a href="https://www.linkedin.com/in/hawra-nawi05/" target="_blank">
-  <img src="https://github.com/user-attachments/assets/d0968311-d004-4b81-bb87-e0aee5e20198" alt="LinkedIn Logo" width="30"/>
+  <img src="https://github.com/user-attachments/assets/d0968311-d004-4b81-bb87-e0aee5e20198" alt="LinkedIn Logo" width="15"/>
 </a>
 
 Enjoy the game!
